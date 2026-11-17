@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "E2PL0Na9NCo=",
+  "dgSpecHash": "XhOACvmyEEc=",
   "success": true,
-  "projectFilePath": "C:\\Users\\Cleonice\\DevTools\\Projetos\\UC14\\Atividade 03\\MATERIAL-PARA-O-ALUNO-FAZER-ATIVIDADE\\Exo.WebApi\\Exo.WebApi.csproj",
+  "projectFilePath": "C:\\Users\\Cleonice\\DevTools\\Projetos\\UC14\\Atividade 05\\Exo.WebApi\\Exo.WebApi.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Cleonice\\.nuget\\packages\\humanizer.core\\2.2.0\\humanizer.core.2.2.0.nupkg.sha512",
     "C:\\Users\\Cleonice\\.nuget\\packages\\messagepack\\2.1.152\\messagepack.2.1.152.nupkg.sha512",

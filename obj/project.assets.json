@@ -8563,11 +8563,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Cleonice\\DevTools\\Projetos\\UC14\\Atividade 03\\MATERIAL-PARA-O-ALUNO-FAZER-ATIVIDADE\\Exo.WebApi\\Exo.WebApi.csproj",
+      "projectUniqueName": "C:\\Users\\Cleonice\\DevTools\\Projetos\\UC14\\Atividade 05\\Exo.WebApi\\Exo.WebApi.csproj",
       "projectName": "Exo.WebApi",
-      "projectPath": "C:\\Users\\Cleonice\\DevTools\\Projetos\\UC14\\Atividade 03\\MATERIAL-PARA-O-ALUNO-FAZER-ATIVIDADE\\Exo.WebApi\\Exo.WebApi.csproj",
+      "projectPath": "C:\\Users\\Cleonice\\DevTools\\Projetos\\UC14\\Atividade 05\\Exo.WebApi\\Exo.WebApi.csproj",
       "packagesPath": "C:\\Users\\Cleonice\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Cleonice\\DevTools\\Projetos\\UC14\\Atividade 03\\MATERIAL-PARA-O-ALUNO-FAZER-ATIVIDADE\\Exo.WebApi\\obj\\",
+      "outputPath": "C:\\Users\\Cleonice\\DevTools\\Projetos\\UC14\\Atividade 05\\Exo.WebApi\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Cleonice\\AppData\\Roaming\\NuGet\\NuGet.Config"
